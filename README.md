@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Sorrel98)](https://solved.ac/Sorrel98/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wp05110)](https://solved.ac/wp05110/)
 
 
 
