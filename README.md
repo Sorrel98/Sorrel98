@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 게임 개발자 김수영입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wp05110)](https://solved.ac/wp05110/)
 
